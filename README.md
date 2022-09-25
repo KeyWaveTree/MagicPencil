@@ -8,6 +8,7 @@
 팬슬을 쓸때 주로 엄지, 검지, 중지를 사용하기에 3개에 손가락으로 사용해볼 수 있는 제스처를 생각하는 중이다.
 만약 이 프로젝트를 하고 난 뒤 기회가 된다면 애플워치에 들어가있는 AssistiveTouch 기능을 활용하여 더욱 다양한 제스처를 설정할려고 한다.
 
+기능 스크롤<br/>
 화면 넘기기<br/>
 색깔 원판
   
@@ -21,5 +22,6 @@
 I am thinking of gestures that can be used with my fingers on three because I usually use my thumb, index finger, and middle finger when I use a pencil.
 If I have a chance after this project, I will try to set up more diverse gestures using the AssistantTouch function included in the Apple Watch.
 
-Turn the screen over <bar>
+Scrolling Features<br/>
+Turn the screen over <br/>
 a colored disk
